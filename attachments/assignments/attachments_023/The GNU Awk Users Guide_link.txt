@@ -1,0 +1,3 @@
+Title: The GNU Awk User’s Guide
+URL: https://www.gnu.org/software/gawk/manual/gawk.html#toc-Functions-1
+Thumbnail URL: https://classroom.google.com/webthumbnail?url=https://www.gnu.org/software/gawk/manual/gawk.html%23toc-Functions-1
